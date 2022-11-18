@@ -14,3 +14,67 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\Juan.Villar\OneDrive - Solera Holdings, Inc\Desktop\DotNet final assestment\backed\finalAssestment.net\finalAssestment.net
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Claims/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Claims/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Claims/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Claims/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Claims/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Owners/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Owners/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Owners/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Owners/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Owners/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Vehicles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Vehicles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Vehicles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Vehicles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan.Villar/OneDrive - Solera Holdings\, Inc/Desktop/DotNet final assestment/backed/finalAssestment.net/finalAssestment.net/Views/Vehicles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
