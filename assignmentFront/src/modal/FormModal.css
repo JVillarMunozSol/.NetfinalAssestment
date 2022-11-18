@@ -1,0 +1,8 @@
+.card{
+    display: grid;
+    padding: 1rem;
+}
+
+.required{
+    color: red;
+}
